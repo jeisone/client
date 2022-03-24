@@ -3,7 +3,7 @@ import { useHistory } from "react-router-dom";
 import roles from "../helpers/roles";
 
 export const AuthContext = createContext()
-
+const constate1="esto es una constante"
 export default function AuthProvider({children}){
     const history = useHistory()
     const [user, setUser]= useState(null)
