@@ -18,5 +18,8 @@ function App() {
   );
 }
 const a =2
+const a =2
+const a =2
+const a =2
 
 export default App;
