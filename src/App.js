@@ -17,7 +17,7 @@ function App() {
     </div>
   );
 }
-
+const a=10000000
 
 //ssdjsdj
 export default App;
