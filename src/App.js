@@ -17,11 +17,9 @@ function App() {
     </div>
   );
 }
-<<<<<<< HEAD
 //adssdsadjlasljkadlkjdas
-=======
-const a =2
->>>>>>> main
 
 //ssdjsdj
 export default App;
+
+//este es un nuevo cambio 
